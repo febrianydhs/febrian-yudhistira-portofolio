@@ -84,16 +84,16 @@ export interface PersonalInfo {
 }
 
 const personalInfo: PersonalInfo = {
-  name: "John Doe",
-  photo: "/placeholder.svg",
+  name: "Febrian Yudhistira",
+  photo: "1.jpg",
   role: "Financial Analyst & Investment Consultant",
-  bio: "With over 10 years of experience in financial markets and investment strategies, I specialize in portfolio optimization, risk management, and market analysis. My background combines practical experience managing assets with deep theoretical knowledge of financial systems.",
+  bio: "I am a Financial Management student specializing in Finance and Investment. With a strong academic foundation and a passion for financial analysis and investment strategies, I am committed to continuously enhancing my skills in asset management, market analysis, and making informed investment decisions. I am eager to apply my knowledge in real-world scenarios and contribute to challenging financial projects.",
   quote: "\"The best investment you can make is in yourself and your financial education.\"",
-  location: "Jakarta, Indonesia",
-  email: "contact@financepro.com",
+  location: "Bandung, Indonesia",
+  email: "febrianydhs@gmail.com",
   socialLinks: {
-    linkedin: "https://linkedin.com/in/financepro",
-    github: "https://github.com/financepro"
+    linkedin: "https://www.linkedin.com/in/febrianyudhistira/",
+    github: "https://github.com/febrianydhs"
   }
 };
 
