@@ -1,4 +1,3 @@
-
 export interface Project {
   id: string;
   title: string;
@@ -230,7 +229,7 @@ const blogPosts: Post[] = [
 ];
 
 const resumeData: Resume = {
-  name: "John Doe",
+  name: "Febrian Yudhistira",
   role: "Financial Analyst & Investment Consultant",
   summary: "Experienced financial professional with expertise in investment analysis, portfolio management, and market research. Proven track record of developing successful investment strategies and delivering actionable insights to clients.",
   education: [
