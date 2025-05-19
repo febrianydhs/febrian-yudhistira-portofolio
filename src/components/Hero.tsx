@@ -10,8 +10,8 @@ const Hero = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           <div className="lg:w-1/2 space-y-6 animate-fade-in">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-finance-blue-dark leading-tight">
-              Expert Financial <br />
-              <span className="text-finance-blue">Analysis & Investment</span>
+              Financial Analysis<br />
+              <span className="text-finance-blue">& Investment</span>
             </h1>
             
             <p className="text-lg text-gray-700 max-w-lg">

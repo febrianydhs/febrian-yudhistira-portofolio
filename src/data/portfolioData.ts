@@ -84,7 +84,7 @@ export interface PersonalInfo {
 }
 
 const personalInfo: PersonalInfo = {
-  name: "Febrian Yudhistira",
+  name: "FEBRIAN YUDHISTIRA",
   photo: "1.jpg",
   role: "Financial Analyst & Investment Consultant",
   bio: "I am a Financial Management student specializing in Finance and Investment. With a strong academic foundation and a passion for financial analysis and investment strategies, I am committed to continuously enhancing my skills in asset management, market analysis, and making informed investment decisions. I am eager to apply my knowledge in real-world scenarios and contribute to challenging financial projects.",
